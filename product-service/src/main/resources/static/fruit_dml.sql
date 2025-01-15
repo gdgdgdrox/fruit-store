@@ -1,0 +1,1 @@
+insert into fruit(name) values ('apple'),('grape'),('orange'),('durian'),('mango');
